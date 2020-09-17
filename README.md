@@ -1,12 +1,12 @@
 # -TipingCalculator
 Assignment IOS for CodePath FellowShip
-# Pre-work - *Name of App Here*
+# Pre-work - *Tipping calculator*
 
-**Name of your app** is a tip calculator application for iOS.
+Tip calculator is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Gabriella Gonzalez
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## User Stories
 
@@ -34,13 +34,15 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+MY GIF http://g.recordit.co/CTcJrOuGvj.gif
+
 ## Notes
 
 Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Gabriella Gonzalez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
