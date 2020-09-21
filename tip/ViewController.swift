@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-     
+    
     @IBOutlet weak var billField: UITextField!
     @IBOutlet weak var tipLabel: UILabel!
     @IBOutlet weak var totalLabel: UILabel!
@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    
     @IBAction func onTap(_ sender: Any) {
         print("Hello")
         
